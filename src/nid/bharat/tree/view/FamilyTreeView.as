@@ -1,4 +1,4 @@
-package nid.bharat 
+package nid.bharat.tree.view 
 {
 	import flash.display.Sprite;
 	
@@ -7,10 +7,10 @@ package nid.bharat
 	 * @author Nidin Vinayak
 	 * @company RTT AG | Munich | Germany
 	 */
-	public class AncestorTree extends Sprite 
+	public class FamilyTreeView extends Sprite 
 	{
 		
-		public function AncestorTree() 
+		public function FamilyTreeView() 
 		{
 			
 		}

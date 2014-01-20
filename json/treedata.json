@@ -1,0 +1,17 @@
+{
+	"version":"0.0.1",
+	"creator":"",
+	"parents":null,
+	"data":[
+		{
+			"uid":"0",
+			"names":[],
+			"gender":null,
+			"dob":null,
+			"info":"initial power",
+			"parents":null,
+			"partners":null,
+			"children":["1","2"]
+		}
+	]
+}
